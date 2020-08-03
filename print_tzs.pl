@@ -3,6 +3,7 @@
 use POSIX qw(tzset);
 
 my @tzs = qw(
+	GMT
 	US/Eastern 
 	Pacific/Honolulu 
 	Pacific/Tongatapu 
